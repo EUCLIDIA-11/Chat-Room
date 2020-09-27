@@ -6,6 +6,7 @@ For Windows users use the executable file to run
 For Linux Users use wine:
 
 sudo wine server.exe
+
 sudo wine Chat-Room.exe
 
 ngrok can be used for port forwarding:
